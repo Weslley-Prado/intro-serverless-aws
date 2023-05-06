@@ -48,6 +48,12 @@ web_modules/
 # TypeScript cache
 *.tsbuildinfo
 
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
 # Optional npm cache directory
 .npm
 
